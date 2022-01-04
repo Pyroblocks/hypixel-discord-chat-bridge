@@ -6,15 +6,15 @@
   "minecraft": {
     "username": "yourUsername",
     "password": "yourPassword",
-    "lobbyHolder": "ignUsername",
-    "accountType": "mojang"
+    "lobbyHolder": "Pyroblocks",
+    "accountType": "microsoft"
   },
   "discord": {
-    "token": "discordBotToken",
+    "token": "OTI1NTA0NTQ0MDE0NzUzODIy.YcuFRg.KPbBuF0UJaIng6GKJ8hkrarwYU0",
     "channel": "channelId",
     "commandRole": "roleId",
-    "ownerId": "ownerId",
-    "prefix": "!",
+    "ownerId": "721089849653985421",
+    "prefix": "fb!",
     "messageMode": "bot"
   },
   "express": {
