@@ -30,7 +30,7 @@ class MinecraftManager extends CommunicationBridge {
       port: this.app.config.server.port,
       username: this.app.config.minecraft.username,
       password: this.app.config.minecraft.password,
-      version: false,
+      version: this.app.config.server.version,
       auth: this.app.config.minecraft.accountType,
     })
   }
