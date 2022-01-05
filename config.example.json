@@ -1,20 +1,21 @@
 {
   "server": {
     "host": "mc.hypixel.net",
+    "version": "1.8.9",
     "port": 25565
   },
   "minecraft": {
     "username": "yourUsername",
     "password": "yourPassword",
-    "lobbyHolder": "exampleIGN",
-    "accountType": "mojang"
+    "lobbyHolder": exampleIGN,
+    "accountType": "microsoft"
   },
   "discord": {
-    "token": "exampleToken",
-    "channel": "channelId",
+    "token": exampleToken,
+    "channel": channelId,
     "commandRole": "roleId",
-    "ownerId": "userID",
-    "prefix": "!",
+    "ownerId": userID,
+    "prefix": "fb!",
     "messageMode": "bot"
   },
   "express": {
